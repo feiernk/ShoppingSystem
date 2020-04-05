@@ -1,0 +1,5 @@
+[2020-04-05 17:10:33,346][MainThread:16204][task_id:user][user_interface.py:41][INFO][用户A登陆成功。]
+[2020-04-05 17:10:33,346][MainThread:16204][task_id:bank][bank_interface.py:13][INFO][用户A的余额为100000000]
+[2020-04-05 17:10:54,267][MainThread:11756][task_id:user][user_interface.py:41][INFO][用户admin登陆成功。]
+[2020-04-05 17:10:54,268][MainThread:11756][task_id:admin][user_interface.py:59][INFO][管理员admin开始使用管理员功能。]
+[2020-04-05 17:10:58,699][MainThread:11756][task_id:admin][user_interface.py:69][INFO][用户B已被管理员admin冻结]

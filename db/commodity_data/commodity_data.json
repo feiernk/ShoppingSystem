@@ -1,0 +1,6 @@
+[
+  {"name": "CPU", "price": 2000},
+  {"name": "主板", "price": 1500},
+  {"name": "显卡", "price": 3000},
+  {"name": "内存", "price": 900}
+]
